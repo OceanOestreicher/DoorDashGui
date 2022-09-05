@@ -1,0 +1,7 @@
+*.project
+*.classpath
+*.txt
+.settings
+.idea
+ChannaOlson2022.user
+OceanOestreicher2022.user
