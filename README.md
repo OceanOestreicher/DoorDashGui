@@ -1,2 +1,2 @@
 # DoorDashGui
-A gui for managing data related to being a dasher
+A gui for managing shifts for DoorDash or other gig type jobs
